@@ -1,5 +1,5 @@
 # PYTHON STRINGS
-'''
+
 # Create a string variable name with your full name. Print:
     # The first character
     # The last character
@@ -74,8 +74,9 @@ if(inp==check):
     print("palindrome")
 else:
     print("Not a palindrome")
-'''
 
+
+# Write a program that counts how many vowels are in a given string
 sentence = "Coding in Python is fun"
 sum = 0
 vowels = ['a', 'e', 'i', 'o', 'u']
