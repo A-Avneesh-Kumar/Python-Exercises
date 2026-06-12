@@ -1,4 +1,3 @@
-'''
 # PYTHON COLLECTIONS
 
 # Create a list fruits = ["apple", "banana", "cherry"] .
@@ -100,7 +99,7 @@ student["grade"]="A+"
 print(student)
 student["city"]="Delhi"
 print(student)
-'''
+
 
 
 # Create a dictionary of three friends and their phone numbers. Use:
@@ -111,5 +110,3 @@ friends={"Ashish":"4192", "Brijesh": "2165", "Harish":"0163"}
 print(friends.keys())
 print(friends.values())
 print(friends.items())
-
-#print(friends.map())
